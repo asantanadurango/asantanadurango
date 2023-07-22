@@ -1,6 +1,6 @@
 
 #  ⚡ About Me:
-![](https://cdn2.iconfinder.com/data/icons/font-awesome/1792/code-16.png) I'm Full Stack Developer 
+I'm Full Stack Developer 
 
 
 ## 🌐 Socials:
